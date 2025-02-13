@@ -1,1 +1,2 @@
 ReREADME
+Pull Request作成のための追記
